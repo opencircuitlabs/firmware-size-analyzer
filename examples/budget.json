@@ -1,0 +1,6 @@
+{
+  "flashBytes": 8192,
+  "ramBytes": 2048,
+  "sections": { "bss": 1200 },
+  "symbols": { "^sample_": 600 }
+}

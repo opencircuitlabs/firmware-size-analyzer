@@ -1,0 +1,2 @@
+   text    data     bss     dec     hex filename
+   4096     128    1024    5248    1480 build/sensor.elf

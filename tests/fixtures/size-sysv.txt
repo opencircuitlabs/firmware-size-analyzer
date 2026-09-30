@@ -1,0 +1,8 @@
+build/sensor.elf  :
+section              size         addr
+.text                4096    134217728
+.rodata               512    134221824
+.data                  128    536870912
+.bss                  1024    536871040
+.debug_info           2048            0
+Total                 7808
